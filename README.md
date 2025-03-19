@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+  I am MythicalWillbur and I am nobody special so far, just experimenting
+
+### Some things they gave me
 - 🔭 I’m currently working on not being trash at USACO
 - 🌱 I’m currently learning trees and hash tables
 - 😄 Pronouns: he/him
