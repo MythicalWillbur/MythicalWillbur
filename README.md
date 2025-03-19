@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on not being trash at USACO
+- 🌱 I’m currently learning trees and hash tables
+- 😄 Pronouns: he/him
+
 <!--
 **MythicalWillbur/MythicalWillbur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
