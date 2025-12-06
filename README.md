@@ -4,7 +4,7 @@
 
 ### Some things they gave me
 - 🔭 I’m currently working on not being trash at USACO
-- 🌱 I’m currently learning trees and hash tables
+- 🌱 I’m currently learning SQL
 - 😄 Pronouns: he/him
 
 <!--
